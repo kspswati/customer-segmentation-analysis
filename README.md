@@ -108,11 +108,11 @@ This suggests family structure inversely correlates with response, while digital
 
 ## Business Recommendations
 
-- Digital Channels Drive Response**: Invest more in online/catalog campaigns — top predictors of response.
-- Segment by Family Structure**: Parents, especially those with larger families, show lower response. Use tailored messaging or exclude where ROI is low.
-- Personalize Offers by Cluster**: Luxury for Cluster 1, family bundles for Clusters 0 and 3, educational toys for Cluster 2.
-- Use RFM and Purchase History**: Prioritize customers with higher RFM scores and web/catalog activity.
-- Class Imbalance Needs Attention**: Improve predictive models through oversampling or weighting to better capture likely responders.
+- Digital Channels Drive Response: Invest more in online/catalog campaigns — top predictors of response.
+- Segment by Family Structure: Parents, especially those with larger families, show lower response. Use tailored messaging or exclude where ROI is low.
+- Personalize Offers by Cluster: Luxury for Cluster 1, family bundles for Clusters 0 and 3, educational toys for Cluster 2.
+- Use RFM and Purchase History: Prioritize customers with higher RFM scores and web/catalog activity.
+- Class Imbalance Needs Attention: Improve predictive models through oversampling or weighting to better capture likely responders.
 
 ---
 
