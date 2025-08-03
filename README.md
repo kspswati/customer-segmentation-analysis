@@ -74,10 +74,10 @@ This suggests family structure inversely correlates with response, while digital
 
 ## Classification Results
 
-| Model                  | Accuracy | Precision (1) | Recall (1) | F1-score (1) | AUC   |
-|------------------------|----------|----------------|-------------|--------------|-------|
-| Logistic Regression    | 85%      | 0.67           | 0.22        | 0.33         | ~0.60 |
-| Random Forest (Balanced)| 84%     | 0.61           | 0.20        | 0.30         | ~0.59 |
+| Model                  | Accuracy | Precision  | Recall  | F1-score  | AUC   |
+|------------------------|----------|------------|---------|-----------|-------|
+| Logistic Regression    | 85%      | 0.67       | 0.22    | 0.33      | ~0.60 |
+| Random Forest (Balanced)| 84%     | 0.61       | 0.20    | 0.30      | ~0.59 |
 
 - Models predict non-responders well but struggle to capture the minority class (responders).
 - Future improvements could involve SMOTE, cost-sensitive training, or deeper feature engineering.
